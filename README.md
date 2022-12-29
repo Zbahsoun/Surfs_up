@@ -8,7 +8,7 @@ In order to determine if a surf and ice cream shop will be a sustainable busines
 
 - The average temperature during the month of June is ∼75 degrees Fahrenheit.
 
-<img src="https://github.com/Zbahsoun/Surfs_up/blob/main/Figures/June%20Temp.png" width=30% height=15%>
+<img src="https://github.com/Zbahsoun/Surfs_up/blob/main/Figures/June%20Temp.png" width=20% height=5%>
 
 - The average temperature during the month of December is ∼71 degrees Fahrenheit.
 
