@@ -19,3 +19,4 @@ In order to determine if a surf and ice cream shop will be a sustainable busines
 
 # Summary
 
+Comparing the months of June and December, there isn’t a remarkable difference between the temperature and the precipitation means, which makes the investor’s less concerned about the possibility of raining. In conclusion, the data supports the opening of Surf and ice cream shop year-round.
