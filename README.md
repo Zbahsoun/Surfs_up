@@ -14,8 +14,8 @@ In order to determine if a surf and ice cream shop will be a sustainable busines
 
 <img src="https://github.com/Zbahsoun/Surfs_up/blob/main/Figures/Dec%20Temp.png" width=20% height=5%>
 
-- For the month of June, the minimum temperature is 64 and the maximum temperature is 85.
-- For the month of December, the minimum temperature is 56 and the maximum temperature is 83.
+- The lowest temperature for the month of June is 64, and 56 for the month of December, as per the highest temperature it’s 85 for the month of June and 83 for the month of December.
+
 
 # Summary
 
